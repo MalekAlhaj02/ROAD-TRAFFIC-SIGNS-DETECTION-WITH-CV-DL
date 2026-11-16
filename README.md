@@ -50,7 +50,7 @@ Adapting to realistic conditions
 Project Files
 ROAD_TRAFFIC_SIGNS_DETECTION___WITH_CV___DL.pptx: project presentation
 Authors
-Malek Alhaj
+Malek Alhaj &
 Renad Omar
 
 Supervised by Dr. Nancy Alajarmeh.
